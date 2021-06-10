@@ -1,0 +1,34 @@
+{
+	"name": "figtree/containment",
+	"description": "FigTree Containment",
+	"keywords": [
+		"figtree",
+		"figtree-php",
+		"docker",
+		"docker-compose"
+	],
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Alan Ondra",
+			"email": "r.alan.ondra@gmail.com",
+			"role": "Creator"
+		}
+	],
+	"funding": [
+		{
+			"type": "github",
+			"url": "https://github.com/sponsors/alanondra"
+		}
+	],
+	"readme": "readme.md",
+	"support": {
+		"email": "figtree.php@gmail.com",
+		"source": "https://github.com/figtree-php/containment",
+		"issues": "https://github.com/figtree-php/containment/issues",
+		"wiki": "https://github.com/figtree-php/containment/wiki"
+	},
+	"require": {},
+	"require-dev": {}
+}
